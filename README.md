@@ -2,10 +2,10 @@
 Project Content:
 
 Four pages:
-About me
-Education
-Experience
-Skills
+a)About me
+b)Education
+c)Experience
+d)Skills
 
 Page supports three diffirent devices resoliution platforms>
 1) 500- 900 px
