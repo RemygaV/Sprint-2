@@ -2,14 +2,14 @@
 
 ## Projects tasks:
 
-Create a website with at least 3 pages.
-Create navigation in the header or sidebar.
-Create footer with at least 2 column layout.
-Include at least 1 image in the project.
-Use font awesome or other libraries for icons.
-Use @media to rule to make project responsive for 3 screen sizes.
-Create readme.md
-Keep the code clean, structure, validity.
+* Create a website with at least 3 pages.
+* Create navigation in the header or sidebar.
+* Create footer with at least 2 column layout.
+* Include at least 1 image in the project.
+* Use font awesome or other libraries for icons.
+* Use @media to rule to make project responsive for 3 screen sizes.
+* Create readme.md
+* Keep the code clean, structure, validity.
 
 
 ## Responsive design:
