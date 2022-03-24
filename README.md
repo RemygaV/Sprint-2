@@ -16,18 +16,18 @@ Keep the code clean, structure, validity.
 
 This CV website was created with raw HTML, CSS. Website is fully responsive!
 Page supports three diffirent devices resoliution platforms:
-1) 360- 799 px
-2) 800 - 1200 px
-3) >1200 px 
+* 360- 799 px
+* 800 - 1200 px
+* >1200 px 
 
 
 ## Description:
 
 This resume page contains four pages:
-a)About me
-b)Education
-c)Experience
-d)Skills
+* About me
+* Education
+* Experience
+* Skills
 
 ## Reference:
 
