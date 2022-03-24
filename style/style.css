@@ -76,7 +76,7 @@ ul {
 }
 
 .button {
-    font-size : 24px;
+    font-size : 28px;
     text-align: left;
     padding   : 25px 20px;
 }
@@ -101,7 +101,8 @@ li a {
     padding    : 20px;
     width      : auto;
     height     : auto;
-    text-align : center;
+    text-align : justify;
+    line-height: 30px;
     font-size  : 20px;
     font-weight: bold;
     color      : var(--black);
@@ -110,7 +111,8 @@ li a {
 .text-experience,
 .text-education {
     padding   : 0px 50px;
-    text-align: left;
+    line-height: 25px;
+    text-align: justify;
 }
 
 .text-skills {
@@ -262,8 +264,6 @@ footer {
 
 .button:hover {
     color        : var(--white);
-    /* left      : 20px; */
-    /* padding   : 25px 10px; */
     background   : var(--blue);
     box-shadow   : 3px 3px 3px var(--lightgray);
 }
@@ -280,7 +280,7 @@ footer {
     }
 
     .button {
-        font-size : 20px;
+        font-size : 24px;
         text-align: left;
     }
 
@@ -340,7 +340,7 @@ footer {
 
 @media screen and (min-width: 360px) and (max-width: 799px) {
     .my-page {
-        margin: 10px;
+        margin: 5px;
         min-width : 355px;
         min-height: 720px;
         grid-template-areas:
@@ -348,7 +348,7 @@ footer {
             "main"
             "footer";
         grid-template-columns: 1fr;
-        grid-template-rows   : 10% 75% 15%;
+        grid-template-rows   : 70px 85% 15%;
     }
 
     .profile {
@@ -367,9 +367,9 @@ footer {
     }
 
     .button {
-        font-size : 14px;
+        font-size : 16px;
         text-align: left;
-        padding   : 7px;
+        padding   : 10px;
     }
 
 
@@ -428,5 +428,4 @@ footer {
     .footer-2 a {
         margin: 10px auto;
     }
-
 }
