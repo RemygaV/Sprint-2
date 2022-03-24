@@ -1,6 +1,6 @@
 # Sprint work No 2
 
-Projects tasks
+## Projects tasks:
 
 Create a website with at least 3 pages.
 Create navigation in the header or sidebar.
@@ -12,7 +12,7 @@ Create readme.md
 Keep the code clean, structure, validity.
 
 
-Responsive design:
+## Responsive design:
 
 This CV website was created with raw HTML, CSS. Website is fully responsive!
 Page supports three diffirent devices resoliution platforms:
@@ -21,7 +21,7 @@ Page supports three diffirent devices resoliution platforms:
 3) >1200 px 
 
 
-Description:
+## Description:
 
 This resume page contains four pages:
 a)About me
@@ -29,6 +29,6 @@ b)Education
 c)Experience
 d)Skills
 
-Reference:
+## Reference:
 
 Website preview link :https://remygav.github.io/Sprint-2/index.html
