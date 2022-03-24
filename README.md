@@ -18,7 +18,7 @@ This CV website was created with raw HTML, CSS. Website is fully responsive!
 Page supports three diffirent devices resoliution platforms:
 * 360- 799 px
 * 800 - 1200 px
-* 1200 -1400px px 
+* 1200 -1400px 
 
 
 ## Description:
