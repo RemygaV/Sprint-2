@@ -8,6 +8,6 @@ c)Experience
 d)Skills
 
 Page supports three diffirent devices resoliution platforms>
-1) 500- 900 px
-2) 900 - 1100 px
-3) >1100 px 
+1) 360- 799 px
+2) 800 - 1200 px
+3) >1200 px 
